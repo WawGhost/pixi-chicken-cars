@@ -1,0 +1,130 @@
+{"frames": {
+
+"barrier":
+{
+	"frame": {"x":2474,"y":1008,"w":414,"h":205},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":414,"h":205},
+	"sourceSize": {"w":414,"h":205},
+	"anchor": {"x":0,"y":0}
+},
+"car":
+{
+	"frame": {"x":1290,"y":1290,"w":363,"h":624},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":363,"h":624},
+	"sourceSize": {"w":363,"h":624},
+	"anchor": {"x":0,"y":0}
+},
+"car_cream":
+{
+	"frame": {"x":1939,"y":1282,"w":406,"h":743},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":406,"h":743},
+	"sourceSize": {"w":406,"h":749},
+	"anchor": {"x":0,"y":0}
+},
+"car_fire":
+{
+	"frame": {"x":1835,"y":556,"w":401,"h":766},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":401,"h":766},
+	"sourceSize": {"w":401,"h":766},
+	"anchor": {"x":0,"y":0}
+},
+"car_police":
+{
+	"frame": {"x":2631,"y":25,"w":313,"h":505},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":313,"h":505},
+	"sourceSize": {"w":313,"h":505},
+	"anchor": {"x":0,"y":0}
+},
+"car_taxi":
+{
+	"frame": {"x":2631,"y":555,"w":265,"h":428},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":265,"h":428},
+	"sourceSize": {"w":265,"h":428},
+	"anchor": {"x":0,"y":0}
+},
+"finish_bg":
+{
+	"frame": {"x":25,"y":25,"w":1597,"h":1240},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1597,"h":1240},
+	"sourceSize": {"w":1597,"h":1240},
+	"anchor": {"x":0,"y":0}
+},
+"hatch":
+{
+	"frame": {"x":2235,"y":982,"w":214,"h":214},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":214},
+	"sourceSize": {"w":214,"h":214},
+	"anchor": {"x":0,"y":0}
+},
+"hatch_gold":
+{
+	"frame": {"x":2707,"y":1238,"w":214,"h":214},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":214},
+	"sourceSize": {"w":214,"h":214},
+	"anchor": {"x":0,"y":0}
+},
+"light":
+{
+	"frame": {"x":1835,"y":25,"w":506,"h":771},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":506,"h":771},
+	"sourceSize": {"w":506,"h":771},
+	"anchor": {"x":0,"y":0}
+},
+"road_dividing":
+{
+	"frame": {"x":25,"y":1647,"w":19,"h":1141},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":1141},
+	"sourceSize": {"w":19,"h":1141},
+	"anchor": {"x":0,"y":0}
+},
+"start_bg":
+{
+	"frame": {"x":1290,"y":25,"w":520,"h":1240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":520,"h":1240},
+	"sourceSize": {"w":520,"h":1240},
+	"anchor": {"x":0,"y":0}
+},
+"table":
+{
+	"frame": {"x":1835,"y":1008,"w":375,"h":249},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":375,"h":249},
+	"sourceSize": {"w":375,"h":249},
+	"anchor": {"x":0,"y":0}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "game_sheet.webp",
+	"format": "RGBA8888",
+	"size": {"w":2969,"h":1713},
+	"scale": "1",
+	"related_multi_packs": [ "load_sheet.json", "modal_sheet.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:b9e608b8ad8ad77d2ea4a32b1fbea5e4:b8ec55734bf124c4dc4c255c471dfa44:fadf413a756160573dfd1e87485ad753$"
+}
+}

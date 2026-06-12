@@ -1,0 +1,47 @@
+{
+  "bundles": [
+    {
+      "name": "fonts",
+      "assets": {
+        "montserrat_font": "./fonts/Montserrat-Regular.woff2",
+        "montserrat_font_bold": "./fonts/Montserrat-Bold.woff2",
+        "blink_font": "./fonts/BlinkMacSystemFont.woff2"
+      }
+    },
+    {
+      "name": "sounds",
+      "assets": {
+        "bg": "./sounds/background.mp3",
+        "buttonClick": "./sounds/buttonClick.mp3",
+        "car1": "./sounds/car1.mp3",
+        "car2": "./sounds/car2.mp3",
+        "cashout": "./sounds/cashout.mp3",
+        "chick": "./sounds/chick.mp3",
+        "crash": "./sounds/crash.mp3",
+        "jump": "./sounds/jump.mp3",
+        "lose": "./sounds/lose.mp3",
+        "win": "./sounds/win.mp3"
+      }
+    },
+    {
+      "name": "load-screen",
+      "assets": {
+        "load_sheet": "./assets/load_sheet.json"
+      }
+    },
+    {
+      "name": "game-screen",
+      "assets": {
+        "game_sheet": "./assets/game_sheet.json",
+        "chicken_data": "./assets/atlas/game/chiken.json",
+        "chicken_atlas": "./assets/atlas/game/chiken.atlas"
+      }
+    },
+    {
+      "name": "modal-screen",
+      "assets": {
+        "modal_sheet": "./assets/modal_sheet.json"
+      }
+    }
+  ]
+}

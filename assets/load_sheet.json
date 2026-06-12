@@ -1,0 +1,22 @@
+{"frames": {
+
+"logo":
+{
+	"frame": {"x":25,"y":25,"w":358,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":358,"h":60},
+	"sourceSize": {"w":360,"h":61},
+	"anchor": {"x":0,"y":0}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "load_sheet.webp",
+	"format": "RGBA8888",
+	"size": {"w":408,"h":110},
+	"scale": "1",
+	"related_multi_packs": [ "game_sheet.json", "modal_sheet.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:b9e608b8ad8ad77d2ea4a32b1fbea5e4:b8ec55734bf124c4dc4c255c471dfa44:fadf413a756160573dfd1e87485ad753$"
+}
+}
